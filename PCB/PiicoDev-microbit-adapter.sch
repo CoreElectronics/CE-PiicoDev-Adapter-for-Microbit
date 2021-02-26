@@ -34,7 +34,7 @@ U 1 1 6025DF17
 P 1400 3000
 F 0 "J1" H 1292 775 50  0000 C CNN
 F 1 "Conn_01x40_Female" H 1292 866 50  0000 C CNN
-F 2 "CoreElectronics_Components:Conn_microbit_Horizontal_SMD" H 1400 3000 50  0001 C CNN
+F 2 "CoreElectronics_Components:Conn_microbit_Right_Angle_SMT" H 1400 3000 50  0001 C CNN
 F 3 "~" H 1400 3000 50  0001 C CNN
 	1    1400 3000
 	-1   0    0    1   
