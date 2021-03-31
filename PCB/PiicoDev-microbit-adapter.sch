@@ -4,13 +4,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Title "PiicoDev Adapter for Micro:bit"
+Date "2021-03-31"
+Rev "v10"
+Comp "Core Electronics"
+Comment1 "Designed by Michael Ruppe"
+Comment2 "Released under  Creative Commons Share-alike 4.0 International"
+Comment3 "https://creativecommons.org/licenses/by-sa/4.0/"
 Comment4 ""
 $EndDescr
 $Comp
