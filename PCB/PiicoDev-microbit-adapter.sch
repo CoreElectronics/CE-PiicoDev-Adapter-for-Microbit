@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "PiicoDev Adapter for Micro:bit"
-Date "2021-03-31"
-Rev "v10"
+Date "2021-11-02"
+Rev "v11"
 Comp "Core Electronics"
 Comment1 "Designed by Michael Ruppe"
 Comment2 "Released under  Creative Commons Share-alike 4.0 International"
@@ -203,12 +203,12 @@ Connection ~ 2200 3900
 Wire Wire Line
 	2200 3900 2200 3800
 $Comp
-L CoreElectronics_Artwork:LOGO_CoreElectronics_made-with-love #G2
+L CoreElectronics_Artwork:LOGO_CoreElectronics_made-with-love G2
 U 1 1 6027A8F4
 P 10300 6250
-F 0 "#G2" H 10300 6044 60  0001 C CNN
+F 0 "G2" H 10300 6044 60  0001 C CNN
 F 1 "LOGO_CoreElectronics_made-with-love" H 10300 6456 60  0001 C CNN
-F 2 "" H 10300 6250 50  0001 C CNN
+F 2 "CoreElectronics_Artwork:CoreElectronics_logo_5mm_v2" H 10300 6250 50  0001 C CNN
 F 3 "" H 10300 6250 50  0001 C CNN
 	1    10300 6250
 	1    0    0    -1  
